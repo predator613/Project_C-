@@ -44,7 +44,7 @@ project/<br>
         return result;
     }
 
-    CompressionResult LZSSCompressor::decompress(const char* inputFile, const char* outputFile) {
+    CompressionResult название_алгоритма::decompress(const char* inputFile, const char* outputFile) {
 
         CompressionResult result;
     
