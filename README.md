@@ -4,10 +4,10 @@
 ## СТРУКТУРА
 project/<br>
 ├── main.cpp     # Основной файл с запуском и тестирование файлов <br>
-├── compression.h    # Главный зоголовочный файл<br>
+├── compression.h    # Главный заголовочный файл<br>
 ├── compression.cpp    # файл сохранения и чтения<br>
-├── compressors.h          # Обявление функций сжатия<br>
-├── method_Name_author/      # Папка с алгоитмом сжатия<br>
+├── compressors.h          # Объявление функций сжатия<br>
+├── method_Name_author/      # Папка с алгоритмом сжатия<br>
 │   ├── method.cpp<br>
 │   └── method.h<br>
 ├── tests/        # Тестовые файлы для тестов<br>
